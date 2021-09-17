@@ -1,5 +1,5 @@
 # tictactoe
-[Project](https://github.com/luanldcarvalho/tictactoe/projects/1)
+Learn more about the project's progress: [Project](https://github.com/luanldcarvalho/tictactoe/projects/1)
 
 This project is being developed by Luan and Mateus with the mission: To study C and practice git as a team.
 - Luan Carvalho [GitHub](https://github.com/luanldcarvalho) - [Linkedin](https://www.linkedin.com/in/luanldcarvalho/)
